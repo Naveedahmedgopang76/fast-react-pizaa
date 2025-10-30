@@ -1,0 +1,6 @@
+{
+  "extends": ["eslint:recommended", "react-app", "plugin:prettier/recommended"],
+  "rules": {
+    "no-unused-vars": "warn" // instead of "error"
+  }
+}
